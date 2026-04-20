@@ -2,5 +2,4 @@ git+https://github.com/dotrann1412/conveyor#a5382d19b65477d813ef8c0972e5323e3515
 git+https://github.com/huggingface/diffusers#c8c84018e0d8704e44d68ff18b634f1f61a717f6
 fastapi[standard]==0.104.1
 uvicorn==0.24.0
-torch==2.11.0
-transformers==4.57.1
+transformers==5.5.4
